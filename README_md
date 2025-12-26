@@ -1,0 +1,21 @@
+# DS Multiple Disease Prediction
+
+This project predicts **Diabetes**, **Heart Disease**, and **Parkinsons Disease** using Machine Learning.
+
+## Datasets
+- Diabetes: 768 rows × 9 columns
+- Heart Disease: 920 rows × 16 columns
+- Parkinsons: 195 rows × 24 columns
+
+## Steps
+1. Data Loading
+2. Exploratory Data Analysis (EDA)
+3. Data Cleaning & Preparation
+4. Feature Selection
+5. Machine Learning Models (Random Forest)
+6. Evaluation (Accuracy & Confusion Matrix)
+
+## Results
+- Diabetes Accuracy:0.7207792207792207 
+- Heart Disease Accuracy: 0.842391304347826
+- Parkinsons Accuracy: 0.9487179487179487 
